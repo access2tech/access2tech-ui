@@ -1,0 +1,23 @@
+{
+  "name": "access2tech-ui",
+  "version": "1.0.0",
+  "description": "Front-end GUI for Access2Tech website and sevices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/access2tech/access2tech-ui.git"
+  },
+  "author": "Access2Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/access2tech/access2tech-ui/issues"
+  },
+  "homepage": "https://github.com/access2tech/access2tech-ui#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-router-dom": "^4.3.1"
+  }
+}
